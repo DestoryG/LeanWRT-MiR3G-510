@@ -1,6 +1,6 @@
 # LeanWRT For MIR3G
 
-A OpenWRT Firmware For Xiaomi Router 3G V1.
+A Lean's OpenWRT-Fork Firmware For Xiaomi Router 3G V1.
 
 ## Tips
 Kernel Version:5.10
