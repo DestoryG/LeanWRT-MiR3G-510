@@ -16,7 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic
 rm feeds/packages/lang/lua-eco/Makefile
 wget https://raw.githubusercontent.com/zhaojh329/lua-eco/openwrt-package/Makefile -O feeds/packages/lang/lua-eco/Makefile
-mv luci-app-unblockneteasemusic package
