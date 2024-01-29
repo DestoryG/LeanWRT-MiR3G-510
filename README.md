@@ -7,6 +7,8 @@ Kernel Version:5.10
 
 If You Need Overclocked Firmware, [Check This Firmware](https://github.com/DestoryG/LeanWRT-MiR3G-510OC)
 
+You may be interested in the new OUI interface:[Take Me To There](https://github.com/DestoryG/LeanWRT-MiR3G-510-OUI)
+
 Note: 5.4 Firmware will no longer be maintained.
 
 ## Credits
