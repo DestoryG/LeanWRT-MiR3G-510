@@ -27,6 +27,7 @@ Note: 5.4 Firmware will no longer be maintained.
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 - [ChatGPT](https://chat.openai.com/)
+- - [stupidloud/cachewrtbuild](https://github.com/stupidloud/cachewrtbuild)
 
 ## License
 
