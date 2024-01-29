@@ -56,7 +56,7 @@ jobs:
         sudo chown $USER:$GROUPS /workdir
 
     - name: Show Hardware Info
-       run:|
+      run:|
         echo "Neofetch Result:"
         neofetch
         echo "Screenfetch Result:"
