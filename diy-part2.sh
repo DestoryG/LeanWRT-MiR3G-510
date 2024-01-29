@@ -16,3 +16,5 @@ sed -i 's/KERNEL_PATCHVER:=5\.4/KERNEL_PATCHVER:=5.10/' target/linux/ramips/Make
 sed -i "s/set system.@system\[-1\].hostname='OpenWrt'/set system.@system[-1].hostname='DGWrt'/" package/base-files/files/bin/config_generate
 rm -rf package/feeds/routing/batman-adv
 mv files/batman-adv package/feeds/routing
+rm feeds/packages/lang/lua-eco/Makefile
+wget https://raw.githubusercontent.com/zhaojh329/lua-eco/openwrt-package/Makefile -O feeds/packages/lang/lua-eco/Makefile
