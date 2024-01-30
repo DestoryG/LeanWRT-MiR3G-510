@@ -143,6 +143,8 @@ jobs:
         rm config.buildinfo
         rm feeds.buildinfo
         rm version.buildinfo
+        rm openwrt-ramips-mt7621-xiaomi_mi-router-3g.manifest
+        rm openwrt-ramips-mt7621-xiaomi_mi-router-3g-initramfs-kernel.bin
         echo "FIRMWARE=$PWD" >> $GITHUB_ENV
         echo "::set-output name=status::success"
 
