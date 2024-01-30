@@ -20,7 +20,5 @@ rm feeds/packages/lang/lua-eco/Makefile
 wget https://raw.githubusercontent.com/zhaojh329/lua-eco/openwrt-package/Makefile -O feeds/packages/lang/lua-eco/Makefile
 rm package/feeds/packages/rust/Makefile
 mv files/rustfix/Makefile package/feeds/packages/rust
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/sbwml/packages_lang_golang -b 20.x feeds/packages/lang/golang
 git clone https://github.com/sbwml/luci-app-alist package/alist
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git packages
