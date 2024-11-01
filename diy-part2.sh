@@ -23,5 +23,3 @@ mv files/rustfix/Makefile package/feeds/packages/rust
 git clone https://github.com/sbwml/luci-app-alist package/alist
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git packages
 sudo apt install libfuse-dev
-rm -rf feeds/packages/lang/golang
-git clone https://github.com/sbwml/packages_lang_golang -b 20.x feeds/packages/lang/golang
