@@ -7,8 +7,6 @@ Kernel Version:5.10
 
 If You Need Overclocked Firmware, [Check This Firmware](https://github.com/DestoryG/LeanWRT-MiR3G-510OC)
 
-You may be interested in the new OUI interface:[Take Me To There](https://github.com/DestoryG/LeanWRT-MiR3G-510-OUI)
-
 Note: 5.4 Firmware will no longer be maintained.
 
 ## Credits
@@ -29,7 +27,7 @@ Note: 5.4 Firmware will no longer be maintained.
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 - [ChatGPT](https://chat.openai.com/)
-- - [stupidloud/cachewrtbuild](https://github.com/stupidloud/cachewrtbuild)
+- [stupidloud/cachewrtbuild](https://github.com/stupidloud/cachewrtbuild)
 
 ## License
 
