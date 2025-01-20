@@ -16,3 +16,4 @@ sed -i 's/KERNEL_PATCHVER:=5\.4/KERNEL_PATCHVER:=5.10/' target/linux/ramips/Make
 sed -i "s/set system.@system\[-1\].hostname='OpenWrt'/set system.@system[-1].hostname='DGWrt'/" package/base-files/files/bin/config_generate
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git packages
 sudo apt install libfuse-dev
+mv files/Makefile package/system/apk
