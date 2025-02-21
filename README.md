@@ -2,7 +2,7 @@
 
 A Lean's OpenWRT-Fork Firmware For Xiaomi Router 3G V1.
 
-Looking A OpenWRT With Latest Official Code? [Check ImmortalWRT](https://github.com/DestoryG/ImmortalWRT-MiR3G/))
+Looking A OpenWRT With Latest Official Code? [Check ImmortalWRT](https://github.com/DestoryG/ImmortalWRT-MiR3G/)
 
 ## Tips
 Kernel Version:5.10
