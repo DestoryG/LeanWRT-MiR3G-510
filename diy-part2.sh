@@ -20,7 +20,6 @@ sed -i 's/wireless.radio${devidx}.country=US/wireless.radio${devidx}.country=AU/
 git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git packages
 sed -i 's/luci-theme-bootstrap/luci-theme-argone/g' feeds/luci/collections/luci/Makefile
 rm -rf feeds/routing/batman-adv
-rm target/linux/ramips/patches-5.10/322-mt7621-fix-cpu-clk-add-clkdev.patch
 rm feeds/smpackage/luci-theme-argone/htdocs/luci-static/argone/img/bg1.jpg
 mv files/batman-adv feeds/routing
 mv files/bg1.jpg feeds/smpackage/luci-theme-argone/htdocs/luci-static/argone/img/bg1.jpg
