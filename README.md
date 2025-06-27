@@ -1,3 +1,6 @@
+# No longer maintained
+I no longer use this router, and I cannot guarantee whether the firmware compiled later will work.
+
 # LeanWRT For MIR3G
 
 A Lean's OpenWRT-Fork Firmware For Xiaomi Router 3G V1.
